@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=00A8FF&center=true&vCenter=true&width=500&lines=Building+AxonOS+from+scratch;Low-level+%7C+Kernel+dev;C+%7C+Python+%7C+Assembly;I+love+systems+and+clean+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=00A8FF&center=true&vCenter=true&width=500&lines=Building+AxonOS;Low-level+%7C+Kernel+dev;C+%7C+Python+%7C+Assembly;I+love+systems+and+clean+code" alt="Typing SVG" />
 </p>
 
 ---
