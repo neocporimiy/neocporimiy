@@ -23,14 +23,6 @@
 
 ---
 
-## ⚙️ What I'm Working On
-- 🧩 **AxonOS** — кастомная OS на C  
-- 💾 Низкоуровневые драйверы  
-- 🖥️ Custom BIOS-like интерфейсы  
-- 📦 Проекты под GitHub + открытый код  
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -41,21 +33,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neocporimiy&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
-
----
-
-## ⚡ My Setup
-- OS: Windows / Linux  
-- Editor: VSCode + JetBrains  
-- CPU: 💀  
-- Mood: Coding at 3 AM as always  
-
----
-
-## 🧠 Fun Facts
-- Могу провести 10 часов в дебаге драйвера  
-- Люблю low-level и системный код  
-- Еще люблю красивый UI, но пишу ядра 🤡  
 
 ---
 
