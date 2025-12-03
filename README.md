@@ -1,32 +1,33 @@
 <h1 align="center">👾 neocporimiy</h1>
-<p align="center">
-  <b>Developer • OS Builder • Low-level enjoyer</b>
-</p>
+<h3 align="center">Developer • OS Builder • Low-level Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=00A8FF&center=true&vCenter=true&width=500&lines=Building+AxonOS;Low-level+%7C+Kernel+dev;C+%7C+Python+%7C+Assembly;I+love+systems+and+clean+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=2D2D2D&center=true&vCenter=true&width=500&lines=Building+AxonOS;Kernel+Development+%7C+Systems+Programming;C+%7C+Python+%7C+Assembly;Clean+Code+Advocate" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🛠️ Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,python,linux,git,github,bash,html,css,js,cpp,vscode" />
+## 🛠️ Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,linux,git,github,bash,html,css,js,cpp,vscode&theme=light" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neocporimiy&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=neocporimiy&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neocporimiy&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+| | |
+|:---:|:---:|
+| <img src="https://github-readme-stats.vercel.app/api?username=neocporimiy&show_icons=true&theme=transparent&title_color=2D2D2D&text_color=555555&icon_color=7C7C7C&hide_border=true&bg_color=00000000" height="165"/> | <img src="https://github-readme-streak-stats.herokuapp.com?user=neocporimiy&theme=graywhite&hide_border=true&background=FFFFFF00&stroke=DDDDDD&dates=888888" height="165"/> |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neocporimiy&layout=compact&theme=transparent&title_color=2D2D2D&text_color=555555&hide_border=true&bg_color=00000000" height="165"/> | |
+
+</div>
 
 ---
 
-<h3 align="center">⭐ If you like my work — star my repos!</h3>
+<p align="center">
+  <i>If you appreciate my work — consider starring my repositories!</i>
+</p>
