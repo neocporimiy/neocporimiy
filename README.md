@@ -1,35 +1,32 @@
 <h1 align="center">👾 neocporimiy</h1>
-<h3 align="center">Developer • OS Builder • Low-level Enthusiast</h3>
+<p align="center">
+  <b>Developer • OS Builder • Low-level enjoyer</b>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=2D2D2D&center=true&vCenter=true&width=500&lines=Building+AxonOS;Kernel+Development+%7C+Systems+Programming;C+%7C+Python+%7C+Assembly;Clean+Code+Advocate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=00A8FF&center=true&vCenter=true&width=500&lines=Building+AxonOS;Low-level+%7C+Kernel+dev;C+%7C+Python+%7C+Assembly;I+love+systems+and+clean+code" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🛠️ Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,linux,git,github,bash,html,css,js,cpp,vscode&theme=light" />
+## 🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,python,linux,git,github,bash,html,css,js,cpp,vscode" />
 </p>
 
 ---
 
-## 🚀 Current Focus
-
-**🔧 Main Project:** [AxonOS](https://github.com/fcexx/AxonOS)  
-*Operating system with modern kernel design*
-
----
-
-## 📂 Highlighted Repositories
-
-### [AxonOS](https://github.com/fcexx/AxonOS)
-🖥️ From-scratch OS with custom kernel, drivers, and userspace
-
----
-
+## 📈 GitHub Stats
 
 <p align="center">
-  <i>⭐ Star my projects if you find them interesting!</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=neocporimiy&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=neocporimiy&theme=tokyonight&hide_border=true" height="165"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neocporimiy&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+<h3 align="center">⭐ If you like my work — star my repos!</h3>
