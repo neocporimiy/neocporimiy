@@ -15,19 +15,21 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 🚀 Current Focus
 
-<div align="center">
-
-| | |
-|:---:|:---:|
-| <img src="https://github-readme-stats.vercel.app/api?username=neocporimiy&show_icons=true&theme=transparent&title_color=2D2D2D&text_color=555555&icon_color=7C7C7C&hide_border=true&bg_color=00000000" height="165"/> | <img src="https://github-readme-streak-stats.herokuapp.com?user=neocporimiy&theme=graywhite&hide_border=true&background=FFFFFF00&stroke=DDDDDD&dates=888888" height="165"/> |
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neocporimiy&layout=compact&theme=transparent&title_color=2D2D2D&text_color=555555&hide_border=true&bg_color=00000000" height="165"/> | |
-
-</div>
+**🔧 Main Project:** [AxonOS](https://github.com/fcexx/AxonOS)  
+*Operating system with modern kernel design*
 
 ---
 
+## 📂 Highlighted Repositories
+
+### [AxonOS](https://github.com/fcexx/AxonOS)
+🖥️ From-scratch OS with custom kernel, drivers, and userspace
+
+---
+
+
 <p align="center">
-  <i>If you appreciate my work — consider starring my repositories!</i>
+  <i>⭐ Star my projects if you find them interesting!</i>
 </p>
