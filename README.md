@@ -41,5 +41,3 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/neocporimiy/neocporimiy/output/snake.svg" alt="Snake animation" />
