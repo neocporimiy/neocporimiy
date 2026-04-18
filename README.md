@@ -1,1 +1,1 @@
-![stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neocporimiy&theme=black&v=1)
+
